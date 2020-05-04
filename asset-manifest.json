@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "//angelopez10.github.io/starwars/static/css/main.b0fcdd73.chunk.css",
+    "main.js": "//angelopez10.github.io/starwars/static/js/main.23631246.chunk.js",
+    "main.js.map": "//angelopez10.github.io/starwars/static/js/main.23631246.chunk.js.map",
+    "runtime-main.js": "//angelopez10.github.io/starwars/static/js/runtime-main.d4a0ba2f.js",
+    "runtime-main.js.map": "//angelopez10.github.io/starwars/static/js/runtime-main.d4a0ba2f.js.map",
+    "static/css/2.4890162c.chunk.css": "//angelopez10.github.io/starwars/static/css/2.4890162c.chunk.css",
+    "static/js/2.ac082ed1.chunk.js": "//angelopez10.github.io/starwars/static/js/2.ac082ed1.chunk.js",
+    "static/js/2.ac082ed1.chunk.js.map": "//angelopez10.github.io/starwars/static/js/2.ac082ed1.chunk.js.map",
+    "index.html": "//angelopez10.github.io/starwars/index.html",
+    "precache-manifest.ce5eda07a3b8ef02bacbbb4e35534134.js": "//angelopez10.github.io/starwars/precache-manifest.ce5eda07a3b8ef02bacbbb4e35534134.js",
+    "service-worker.js": "//angelopez10.github.io/starwars/service-worker.js",
+    "static/css/2.4890162c.chunk.css.map": "//angelopez10.github.io/starwars/static/css/2.4890162c.chunk.css.map",
+    "static/css/main.b0fcdd73.chunk.css.map": "//angelopez10.github.io/starwars/static/css/main.b0fcdd73.chunk.css.map",
+    "static/js/2.ac082ed1.chunk.js.LICENSE.txt": "//angelopez10.github.io/starwars/static/js/2.ac082ed1.chunk.js.LICENSE.txt",
+    "static/media/all.css": "//angelopez10.github.io/starwars/static/media/fa-solid-900.cdfec5cf.woff",
+    "static/media/style.css": "//angelopez10.github.io/starwars/static/media/main-bg.f425cfea.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4a0ba2f.js",
+    "static/css/2.4890162c.chunk.css",
+    "static/js/2.ac082ed1.chunk.js",
+    "static/css/main.b0fcdd73.chunk.css",
+    "static/js/main.23631246.chunk.js"
+  ]
+}
