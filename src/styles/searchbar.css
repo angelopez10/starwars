@@ -1,0 +1,11 @@
+#searchbar {
+    margin-top: 190px;
+}
+
+#searchbar input{
+    background-color: #3a3a3a !important;
+    border: none;
+    height: 60px;
+    font-size: 26px;
+}
+
